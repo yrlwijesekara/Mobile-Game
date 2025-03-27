@@ -1,6 +1,7 @@
+import 'package:dino_dash/screens/main_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:flame/flame.dart';
-import 'package:flutter_application_1/screens/main_menu.dart';
+
 
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();

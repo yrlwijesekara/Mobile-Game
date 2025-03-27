@@ -1,6 +1,10 @@
 import 'package:dino_dash/game/constant.dart';
 import 'package:dino_dash/game/dino.dart';
 import 'package:dino_dash/game/enemy.dart';
+import 'package:dino_dash/game/enemy_manager.dart';
+import 'package:dino_dash/widgets/game_over.dart';
+import 'package:dino_dash/widgets/hud.dart';
+import 'package:dino_dash/widgets/pause_menu.dart';
 import 'package:flame/components.dart';
 import 'package:flame/events.dart';
 import 'package:flame/game.dart';
